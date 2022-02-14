@@ -13,18 +13,18 @@
   ### - Languages and Tools...
 
   <a href="#">
-    <img src="css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </p>
