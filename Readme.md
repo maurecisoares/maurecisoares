@@ -1,7 +1,7 @@
 ### Olá, Me chamo Maureci
 
 - 🔭 Atualmente estou trabalhando como planejador de manutenção.
-- 🌱 Estou fazendo o curso fullstack do ProgramadorBr.
+- 🌱 Estou fazendo alguns cursos na plataforma da alura focado no backend.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
