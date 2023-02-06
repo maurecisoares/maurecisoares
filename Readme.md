@@ -1,8 +1,7 @@
 ### Olá, Me chamo Maureci
 
-- 🔭 Atualmente estou trabalhando como planejador de manutenção.
-- 🌱 Estou fazendo alguns cursos na plataforma da alura focado no backend.
-- 😄 Pronouns: ele/dele
+- 🔭 I'm currently working as a maintenance planner.
+- 🌱 I'm studing backend in alura plataform.
 
 <div align="center">
   <a href="https://github.com/maurecisoares">
