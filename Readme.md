@@ -1,4 +1,4 @@
-### Olá, Me chamo Maureci
+### Hello, my name is Maureci
 
 - 🔭 I'm currently working as a maintenance planner.
 - 🌱 I'm studing backend in alura plataform.
